@@ -163,6 +163,7 @@ function rand_date() {
 }
 
 
-
+#Please enter the number of counts to be printed during running the code
+#Ex: ./date_random.sh 50
 
 rand_date $count "$format"
